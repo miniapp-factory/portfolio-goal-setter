@@ -1,0 +1,58 @@
+
+# 2025-11-22 09:09:06.726088
++Code the following app
++```
++Title: Portfolio Goal Setter
++
++Description:
++Create a simple app where users can set and track their personal portfolio goals. The app should work fully offline and must not use the internet or external APIs. All information is entered manually by the user.
++
++Functionality:
++ • Display two input fields:
++ 1. “Goal Name” (e.g., “Reach $5,000”, “Increase allocation in BTC”)
++ 2. “Target Value” (numeric input for the goal amount or percentage)
++ • Add a button labeled “Add Goal” that saves the goal to a visible list.
++ • Show the list in a section titled “Your Portfolio Goals”, where each entry includes:
++ • Goal Name
++ • Target Value
++ • Each goal should have a “Delete” button to remove it individually.
++ • Include a “Clear All” button that removes all goals at once.
++ • If either input field is empty, display an error message:
++“Please enter both the goal name and target value.”
++
++UI Requirements:
++ • Use only basic UI elements: text fields, labels, buttons, and a simple list.
++ • The layout must be clean, minimalistic, and easy to understand.
++ • All actions (add, delete, clear) must update instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-22 09:09:06.726854
++Code the following app
++```
++Title: Portfolio Goal Setter
++
++Description:
++Create a simple app where users can set and track their personal portfolio goals. The app should work fully offline and must not use the internet or external APIs. All information is entered manually by the user.
++
++Functionality:
++ • Display two input fields:
++ 1. “Goal Name” (e.g., “Reach $5,000”, “Increase allocation in BTC”)
++ 2. “Target Value” (numeric input for the goal amount or percentage)
++ • Add a button labeled “Add Goal” that saves the goal to a visible list.
++ • Show the list in a section titled “Your Portfolio Goals”, where each entry includes:
++ • Goal Name
++ • Target Value
++ • Each goal should have a “Delete” button to remove it individually.
++ • Include a “Clear All” button that removes all goals at once.
++ • If either input field is empty, display an error message:
++“Please enter both the goal name and target value.”
++
++UI Requirements:
++ • Use only basic UI elements: text fields, labels, buttons, and a simple list.
++ • The layout must be clean, minimalistic, and easy to understand.
++ • All actions (add, delete, clear) must update instantly and locally.
++```
++
++Generate an app logo and update the app metadata title and description.
